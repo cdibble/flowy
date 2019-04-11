@@ -1,0 +1,1037 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"coastline",
+				"coastline.angle"
+			],
+			[
+				"Dom",
+				"Dom.wave.per"
+			],
+			[
+				"moor.data.",
+				"moor.data.by.Genus.covs"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"signi",
+				"significance_level"
+			],
+			[
+				"times",
+				"times"
+			],
+			[
+				"Percent_G",
+				"Percent_Good_1"
+			],
+			[
+				"Migration_",
+				"Migration_depth_2"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"Migration",
+				"Migration_depth_1"
+			],
+			[
+				"Date",
+				"Date_Local"
+			],
+			[
+				"Depth",
+				"depthVtime"
+			],
+			[
+				"species",
+				"species_total_count"
+			],
+			[
+				"txt",
+				"txt"
+			],
+			[
+				"strings",
+				"stringsAsFactors"
+			],
+			[
+				"Eas",
+				"Eas"
+			],
+			[
+				"scale",
+				"scale_y_reverse"
+			],
+			[
+				"fam",
+				"fam"
+			],
+			[
+				"filt",
+				"filt"
+			],
+			[
+				"reg_",
+				"reg_inset_pts"
+			],
+			[
+				"last",
+				"last"
+			],
+			[
+				"Lon",
+				"Lon"
+			],
+			[
+				"all",
+				"all"
+			],
+			[
+				"obs",
+				"obs"
+			],
+			[
+				"bin",
+				"bin"
+			],
+			[
+				"no",
+				"no"
+			],
+			[
+				"sample",
+				"sample"
+			],
+			[
+				"measur",
+				"measurement__geom"
+			],
+			[
+				"Head",
+				"Head"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"Font",
+				"FontSize"
+			],
+			[
+				"Fon",
+				"FontSize"
+			],
+			[
+				"Mark",
+				"MarkerFaceColor"
+			],
+			[
+				"Marker",
+				"MarkerEdgeColor"
+			],
+			[
+				"YYY",
+				"YYYY-mmm"
+			],
+			[
+				"EF1",
+				"EF1aF2"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"silly",
+				"silly"
+			],
+			[
+				"fieldn",
+				"Field_Names"
+			],
+			[
+				"site_grid_",
+				"site_grid_lon_I"
+			],
+			[
+				"site_grid",
+				"site_grid_lat_I"
+			],
+			[
+				"sites",
+				"sites"
+			],
+			[
+				"BH",
+				"BH"
+			],
+			[
+				"PR_3",
+				"PR_3_Lon"
+			],
+			[
+				"style",
+				"font-style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "revec.r",
+			"settings":
+			{
+				"buffer_size": 2499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/devec.r",
+			"settings":
+			{
+				"buffer_size": 3911,
+				"line_ending": "Unix",
+				"name": "devec.r"
+			}
+		},
+		{
+			"file": "/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/filter_by_sd.r",
+			"settings":
+			{
+				"buffer_size": 7003,
+				"line_ending": "Unix",
+				"name": "filter_by_sd.r"
+			}
+		},
+		{
+			"file": "/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/filter_by_mag.r",
+			"settings":
+			{
+				"buffer_size": 5102,
+				"line_ending": "Unix",
+				"name": "filter_by_mag"
+			}
+		},
+		{
+			"file": "/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/tide_plot.r",
+			"settings":
+			{
+				"buffer_size": 898,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/adcp_binplot.r",
+			"settings":
+			{
+				"buffer_size": 3602,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "adcp_maplot.r",
+			"settings":
+			{
+				"buffer_size": 16032,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/garbage_functions.r",
+			"settings":
+			{
+				"buffer_size": 653,
+				"line_ending": "Unix",
+				"name": "garbage_functions.r"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"repl",
+				"SublimeREPL: R"
+			],
+			[
+				"rbox",
+				"R-Box: Choose Program"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"sublime ",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"",
+				"Package Control: Remove Repository"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"rbo",
+				"R-Box: Choose Program"
+			],
+			[
+				"box",
+				"R-Box: Choose Program"
+			],
+			[
+				"r",
+				"R-Box: Choose Program"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 566.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Connor/Downloads/R Console.txt",
+		"/Volumes/MacasaurusEtAl/Backups.backupdb/Macasaurus Rex (333)/2018-01-06-125132/Macintosh HD/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/functions/revec.r",
+		"/Volumes/MacasaurusEtAl/Backups.backupdb/Macasaurus Rex (333)/2018-01-06-125132/Macintosh HD/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/functions/filter_by_mag.r",
+		"/Volumes/MacasaurusEtAl/Backups.backupdb/Macasaurus Rex (333)/2018-01-06-125132/Macintosh HD/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/functions/filter_by_sd.r",
+		"/Volumes/MacasaurusEtAl/Backups.backupdb/Macasaurus Rex (333)/2018-01-06-125132/Macintosh HD/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/functions/devec.r",
+		"/Volumes/MacasaurusEtAl/Backups.backupdb/Macasaurus Rex (333)/2017-11-06-151749/Macintosh HD/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/flah_adcp.r",
+		"/Users/Connor/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/26FAAA48-EBB2-4CE0-BAE3-44264D0F00E2/Simcover.m",
+		"/Users/Connor/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/341457DF-F6F7-4536-97F9-9F415C5D2FA4/WeightedbootstrapCI.m",
+		"/Users/Connor/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/F9464ADB-3B28-4D83-822E-B3032B2C0511/biasadjustedMmatchest2.m",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Data/NBDC_spectral_waves_2016/ndbc_SFWest_46026Buoy_2016.txt",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Data/NBDC_spectral_waves_2016/ndbc_Bodega_46013Buoy2016.txt",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/Thermistor.r",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Data/Recruitment/Recruitment_Data_Raw.csv",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/CCFRP_2017/BML_MPA_GRID_CELL_POINTS.gpx",
+		"/Volumes/GARMIN/Garmin/GPX/Current/Current.gpx",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/CCFRP_2017/BML_MPA_GRID_CELL_TRACKS.gpx",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/ABLE_2016/data/170824_ocean_buoy_entr/170825_ocean_Emerita_params.txt",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/ABLE_2016/data/170824_ocean_buoy_entr/170825_ocean_Ephyra_params.txt",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/ABLE_2016/data/170824_ocean_buoy_entr/170825_ocean_Megalopa_params.txt",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/ABLE_2016/data/170824_ocean_buoy_entr/170825_ocean_Hippolyte_params.txt",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/ABLE_2016/data/170824_ocean_buoy_entr/170825_ocean_Octo_params.txt",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/ABLE_2016/data/170824_ocean_buoy_entr/170825_ocean_Styela_params.txt",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/ABLE_2016/data/170824_ocean_buoy_entr/170825_ocean_Trocophore_params.txt",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/ABLE_2016/data/170824_ocean_buoy_entr/170825_ocean_Balanus_params.txt",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/ABLE_2016/data/170824_ocean_buoy_entr/170825_ocean_Calanus_params.txt",
+		"/Users/Connor/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Connor/Library/Application Support/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/Connor/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/Connor/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/Connor/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Connor/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Connor/Documents/MATLAB/P_Front_Scripts/Read_SAT_DATA_Day.m",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/ABLE_2016/data/160616_ocean_6/160617_ocean_Cyprid.txt",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/ABLE_2016/data/data_raw_2015-2016/150821_ocean_Velella.txt",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/ABLE_2016/data/170626_ocean_buoy/170626_ocean_Tigriopus.txt",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/ABLE_2016/data/160707_ocean_bay/160707_ocean_Bipinnaria.txt",
+		"/Users/Connor/Documents/Graduate School/Outreach/# harker.r",
+		"/Users/Connor/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/ABLE_2016/read_able_text.R",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/Dissertation_Proposal/dissertation_proposal_figs.R",
+		"/Users/Connor/Documents/MATLAB/flah_map_fig.m",
+		"/Users/Connor/Documents/MATLAB/P_Front_Scripts/Summer15_front_analysis.m",
+		"/Users/Connor/Documents/MATLAB/steven_fig.m",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/ABLE_2016/able_text.R",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Data/BOON_wind/wind_flah.R",
+		"/Users/Connor/Documents/MATLAB/Data/FrontP_Data/Bodega_Sites_07_2015/FrontP/POES_3D_Bodega20140101.mat",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/flah_ctd.R",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/FLOO_2015/FLOO_Field/Raw_Data/ADCP/ADCP_15m_NorthLine/_RDI_001.000",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/flah_map_data",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/MBARI_SIMZ/SIMZ_BB_2014_Analysis.R",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/Summer 2015/Data/Summer15.Rmd",
+		"/Users/Connor/Documents/Graduate School/Classes/05 Winter 16/ECL232_TheorEcol/ECL232_Project.R",
+		"/Users/Connor/Documents/Graduate School/Classes/05 Winter 16/ECL232_TheorEcol/AdvectionRun.R",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Data/ADCP_Data/adcp.data.R",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Data/ADCP_Data/sn1202_Site1/sn1202_Site1_export_all.txt",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/Notes_References/Phys_Oce_DataExercises/adcp.hdr",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/MBARI_SIMZ/SIMZ_BB_2014.R",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/flah_recruit.r",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/MBARI_SIMZ/App-1/app.R",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/MBARI_SIMZ/SIMZ_Shiny.R",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/Thermistor.R",
+		"/Users/Connor/Documents/MATLAB/P_Front_Scripts/front_prob_figs.m",
+		"/Users/Connor/Documents/MATLAB/P_Front_Scripts/FP_cutter.m",
+		"/Users/Connor/Documents/MATLAB/P_Front_Scripts/compute_front_prob_ln.m",
+		"/Users/Connor/Documents/MATLAB/P_Front_Scripts/Read_SAT_DATA_Mo.m",
+		"/Users/Connor/Documents/MATLAB/P_Front_Scripts/function YOY_SST_FIGS.m",
+		"/Users/Connor/Documents/MATLAB/P_Front_Scripts/cal_academy_sst.m",
+		"/Users/Connor/Downloads/NDBC_46013_201602_D5_v00.nc",
+		"/Users/Connor/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Connor/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/Connor/Documents/MATLAB/P_Front_Scripts/function FrontP_Overall.m",
+		"/Users/Connor/Documents/MATLAB/P_Front_Scripts/function Summer15_front_analysis.m",
+		"/Users/Connor/Documents/MATLAB/P_Front_Scripts/front_time_series_st.m",
+		"/Users/Connor/Documents/Graduate School/Classes/Spring 15/ENT 298_Computing/Project_2_Dibble.py",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/Scripts/Shell_Code.sh",
+		"/Users/Connor/Documents/Graduate School/Dibble_Research/R scripts/Shell_Code1.sh",
+		"/Users/Connor/Documents/Graduate School/Classes/Spring 15/ENT 298_Computing/Project_2.py",
+		"/Users/Connor/Documents/Graduate School/Classes/Spring 15/ENT 298_Computing/PythonEx.py",
+		"/Users/Connor/Documents/Graduate School/Classes/Spring 15/ENT 298_Computing/for_loop.py",
+		"/Users/Connor/Documents/Graduate School/Classes/Spring 15/ENT 298_Computing/file_input.py",
+		"/Users/Connor/Documents/MATLAB/P_Front_Scripts/Compute_FPs.m",
+		"/Users/Connor/Google Drive/Humboldt Bay NWR Project/Resources/Climate Summary/R_Scripts/CMIP5_models_comparison.R",
+		"/Users/Connor/Google Drive/Humboldt Bay NWR Project/Resources/Climate Summary/R_Scripts/ClimateNA_models_comparison.R",
+		"/Users/Connor/Google Drive/Humboldt Bay NWR Project/Resources/Climate Summary/R_Scripts/ClimateNA_models_comparison_MSY.R",
+		"/Users/Connor/Library/Application Support/Sublime Text 2/Packages/User/R.sublime-settings",
+		"/Users/Connor/Documents/MATLAB/P_Front_Scripts/front_time_series.m",
+		"/Users/Connor/Documents/MATLAB/P_Front_Scripts/front_time_series_new.m",
+		"/Users/Connor/Documents/MATLAB/P_Front_Scripts/front_time_series_Erin.m",
+		"/Users/Connor/Documents/MATLAB/Data/FrontP_Data/POES_Monthly_2007-2015_cCA/front_time_series_cCA_POES.m",
+		"/Users/Connor/twist.github.io/style-sheets/Twist_Primary.css",
+		"/Users/Connor/twist.github.io/style-sheets/CGD_Style.css",
+		"/Users/Connor/twist.github.io/Website/Philosophy.html",
+		"/Users/Connor/Documents/MATLAB/P_Front_Scripts/compute_front_prob.m",
+		"/Users/Connor/Documents/Graduate School/Classes/Winter 15/ECL 233_Baskett/Week-8-env-stoch-II/HW8_ECL233_Dibble.Rmd",
+		"/Users/Connor/Documents/Graduate School/Classes/Winter 15/ECL 233_Baskett/Week-9-Demog_Stoch_Dtime/Week9-InClass.R",
+		"/Users/Connor/Documents/Graduate School/Classes/Winter 15/ECL 233_Baskett/Week-8-env-stoch-II/HW8_ECL233_Dibble.R",
+		"/Users/Connor/twist.github.io/index.html",
+		"/Users/Connor/twist.github.io/Website/Research.html",
+		"/Users/Connor/Documents/Graduate School/Classes/Winter 15/ECL 233_Baskett/Week-2-Discrete/#HW2 Script.R",
+		"/Users/Connor/Documents/Graduate School/Classes/Winter 15/ECL 233_Baskett/Week-2-Discrete/Class-Script.R",
+		"/Users/Connor/Documents/Graduate School/Classes/Winter 15/ANT 291-Mclreath/Homework/01_HW_Script.R",
+		"/Users/Connor/Documents/MATLAB/Data/SST_2014121500.mat",
+		"/Users/Connor/ROMS/trunk/ROMS/Include/upwelling.h",
+		"/Users/Connor/ROMS/trunk/makefile",
+		"/Users/Connor/ROMS/trunk/ROMS/Include/cppdefs.h",
+		"/Users/Connor/ROMS/trunk/ROMS/Include/globaldefs.h",
+		"/Users/Connor/ROMS/Projects/Upwelling/ocean_upwelling.in",
+		"/Users/Connor/ROMS/Projects/Upwelling/build.bash",
+		"/Users/Connor/ROMS/Plot-ROMS/src/makefile",
+		"/Users/Connor/ROMS/Projects/Upwelling/upwelling.h",
+		"/Users/Connor/ROMS/Projects/Upwelling/ocean_avg.nc",
+		"/Users/Connor/ROMS/Projects/Upwelling/ocean_dia.nc",
+		"/Users/Connor/ROMS/trunk/Compilers/Darwin-gfortran.mk",
+		"/Users/Connor/twist.github.io/Website/TheLookingGlass.html",
+		"/Users/Connor/twist.github.io/Website/Links.html",
+		"/Users/Connor/twist.github.io/Website/Contact.html",
+		"/Users/Connor/twist.github.io/Website/SaltyMission.html",
+		"/Users/Connor/twist.github.io/Website/Outreach.html",
+		"/Users/Connor/twist.github.io/gh-pages/index.html",
+		"/Users/Connor/twist.github.io/README.md",
+		"/Users/Connor/twist.github.io/Website/Ecology1.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"spe",
+			"\"aspe\",\"xspe\",\"spe\",\"dir\",\"rad.dir\"",
+			"c(\"Tem\", \"Dep\", \"Dfb\", \"Bat\", \"Eas\",\"Nor\", \"Nor.dtbf.m\", \"Eas.dtbf.m\", \"Ver\",\"Err\",\"Mag\",\"Dir\",\"aspe\",\"xspe\",\"spe\",\"dir\",\"rad.dir\",\"Rad\")",
+			"filtered.Dir",
+			"adcp.df$Dir",
+			"df$Dir",
+			"'Dir'",
+			"FALSE",
+			"FALSE ",
+			"\"Eas\",\"Nor\",\"",
+			"adcp.data",
+			"Time",
+			"#",
+			"vec",
+			"vec\n\n\n\n\n\nvec",
+			"vec\n\n\n\n\n\n",
+			"devec",
+			"\"cartesian.dir\",",
+			"artesian.",
+			"Car",
+			"0.1",
+			"Dir",
+			"else",
+			"Nor",
+			"ifelse",
+			"Negate",
+			"'",
+			"Negate",
+			"df",
+			"]",
+			"get",
+			"paste0",
+			"[,",
+			",",
+			"<-",
+			"get",
+			"Amag",
+			"q1",
+			"Amag.series[q1] / Xmag.series[q1]",
+			"atan",
+			"tan",
+			"rev(x)",
+			"<- linterp(adcp",
+			"linterp(adcp.Nor.eof.bot",
+			"linterp(adcp.eof.sur[which(adcp.eof.sur$Name",
+			"		for(i in 1:length(unique(adcp.eof.sur$Name))){\n			adcp.eof.sur[which(adcp.eof.sur$Name == unique(adcp.eof.sur$Name)[i]), \"Nor\"] <- linterp(adcp.eof.sur[which(adcp.eof.sur$Name == unique(adcp.eof.sur$Name)[i]), \"Nor\"])\n		}",
+			"linterp",
+			"df$Mag",
+			"Amag",
+			"Xmag",
+			"Amag",
+			"Xmag",
+			"df$rel.dir",
+			"rel.dir",
+			"Dir",
+			"depAv",
+			"Mag",
+			"1.",
+			"adcp.Nor.eof.sur.filt",
+			"Amag",
+			"dd",
+			"10000",
+			"nrow",
+			"varimax.ft",
+			"Temp4_",
+			"date_breaks = \"1 day\"",
+			"emp in Celcius",
+			"4",
+			".s",
+			"\",",
+			"\"",
+			"theta",
+			"rveofs$theta",
+			"rveofs",
+			">",
+			"rveofs.cast$quad",
+			"rveofs.",
+			">",
+			"1",
+			"pc",
+			"_bot",
+			"3",
+			"s.",
+			".\"",
+			"3",
+			".s",
+			"2*K",
+			"ncol(R_mega)",
+			"ncol(u)",
+			"2",
+			"r.eof.e",
+			"r.eof.n",
+			".e",
+			".n",
+			"n",
+			"sur",
+			"Myt",
+			"MZI",
+			"Myt.",
+			"MZI",
+			"M",
+			"Myt",
+			"bot",
+			"Xbot",
+			"Xsur",
+			"Xbot",
+			"Xsur",
+			"Abot",
+			"Asur",
+			"Xbot",
+			"Xsur",
+			"Abot",
+			"Asur",
+			"u",
+			"row.names",
+			"sur",
+			"bot",
+			"U",
+			"X",
+			"pc.Xsur",
+			"pc.Xbot",
+			"RVEOF",
+			"sur",
+			",",
+			"Balanus",
+			"BZI",
+			"B",
+			"Myt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mean.recruits",
+			"17:",
+			"11:",
+			"10:",
+			"dat",
+			"#",
+			"5",
+			"4",
+			"3",
+			"data",
+			"aspe",
+			"xspe",
+			"spe",
+			"rel.dir",
+			"df",
+			"adcp.7",
+			"adcp.5",
+			"adcp.4",
+			"data",
+			"x",
+			"Pump",
+			"65",
+			"ind4",
+			"ind3",
+			"ind2",
+			"ind1",
+			")",
+			"(",
+			"SH",
+			"SB",
+			"BD",
+			"SB",
+			"BD",
+			"SB",
+			"BD",
+			"PP",
+			"PE",
+			"HM",
+			"MO",
+			"PC",
+			"TP",
+			"GL",
+			"GY",
+			"MN",
+			"PP",
+			"PE",
+			"HM",
+			"MO",
+			"PC",
+			"TP",
+			"GL",
+			"GY",
+			"MN",
+			"TP",
+			"PR",
+			"PA",
+			"GL",
+			"GY",
+			"MN",
+			"PP",
+			"PE",
+			"HM",
+			"MO",
+			"PC",
+			"PP",
+			"PE",
+			"HM",
+			"MO",
+			"PC",
+			"GL",
+			"GY",
+			"MN",
+			"TP",
+			"MB",
+			"BN",
+			"PR",
+			"DP",
+			"FR",
+			"HC",
+			"SR",
+			"PA",
+			"MB",
+			"BN",
+			"PR",
+			"DP",
+			"FR",
+			"HC",
+			"PA",
+			"SR",
+			"HC",
+			"MB",
+			"BN",
+			"FR",
+			"SR",
+			"PA",
+			"DP",
+			"HC",
+			"2",
+			"1",
+			"Lat",
+			"Lon",
+			"I",
+			"MB",
+			"BN",
+			"HB",
+			"FR",
+			"SR",
+			"PA",
+			"MB",
+			"BN",
+			"HB",
+			"FR",
+			"SR",
+			"PA"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "revec.r",
+					"settings":
+					{
+						"buffer_size": 2499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								938,
+								948
+							]
+						],
+						"settings":
+						{
+							"r_box_status": false,
+							"syntax": "Packages/R-Box/syntax/R Extended.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/devec.r",
+					"settings":
+					{
+						"buffer_size": 3911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								792,
+								792
+							]
+						],
+						"settings":
+						{
+							"auto_name": "devec.r",
+							"r_box_status": false,
+							"syntax": "Packages/R-Box/syntax/R Extended.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/filter_by_sd.r",
+					"settings":
+					{
+						"buffer_size": 7003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4654,
+								4654
+							]
+						],
+						"settings":
+						{
+							"auto_name": "filter_by_sd.r",
+							"r_box_status": false,
+							"syntax": "Packages/R-Box/syntax/R Extended.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/filter_by_mag.r",
+					"settings":
+					{
+						"buffer_size": 5102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2536,
+								2536
+							]
+						],
+						"settings":
+						{
+							"auto_name": "filter_by_mag",
+							"r_box_status": false,
+							"syntax": "Packages/R-Box/syntax/R Extended.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/tide_plot.r",
+					"settings":
+					{
+						"buffer_size": 898,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								898,
+								898
+							]
+						],
+						"settings":
+						{
+							"r_box_status": false,
+							"syntax": "Packages/R-Box/syntax/R Extended.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/adcp_binplot.r",
+					"settings":
+					{
+						"buffer_size": 3602,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3602,
+								3602
+							]
+						],
+						"settings":
+						{
+							"r_box_status": false,
+							"syntax": "Packages/R-Box/syntax/R Extended.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "adcp_maplot.r",
+					"settings":
+					{
+						"buffer_size": 16032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"r_box_status": false,
+							"syntax": "Packages/R-Box/syntax/R Extended.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/Connor/Documents/Graduate School/Dibble_Research/FLAH_2016/Analysis/Scripts/garbage_functions.r",
+					"settings":
+					{
+						"buffer_size": 653,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								653,
+								652
+							]
+						],
+						"settings":
+						{
+							"auto_name": "garbage_functions.r",
+							"r_box_status": false,
+							"syntax": "Packages/R-Box/syntax/R Extended.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 85.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true
+}
