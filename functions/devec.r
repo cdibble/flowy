@@ -47,7 +47,7 @@ devec <- function(df, Dir = "Dir", Mag = "Mag", geo = TRUE, wind = FALSE){
 		df[which(df[,Dir] > 360), Dir] <- df[which(df[,Dir] > 360), Dir] -360
 
 		df[,"cartesian.dir"] <- df[,"cartesian.dir"] + 180
-		df[which(df[,"cartesian.dir"] > 360), "cartesian.dir"] <- df[which(df[,"cartesian.dir"] > 360), "cartesian.dir"] -360
+		df[which(df[,"cartesian.dir"] > 360), "cartesian.dir"] <- df[which(df[,"cartesian.dir"] > 360), "cartesian.dir"] - 360
 
 	}
 
