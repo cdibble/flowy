@@ -39,7 +39,7 @@
 			sapply(x,
 				function(x.i){
 					# print(class(mdata[[x.i]]))
-					if(class(mdata[[x.i]])[1] == "numeric" | class(mdata[[x.i]])[1] == "integer" | class(mdata[[x.i]])[1] == "AsIs"){
+					if(class(mdata[[x.i]])[1] == "numeric" | class(mdata[[x.i]])[1] == "integer"){
 						out <- seq(range(mdata[[x.i]], na.rm = TRUE)[1] * cont.pred.expansion, range(mdata[[x.i]], na.rm = TRUE)[2] * cont.pred.expansion, length.out = n.sim.vals)
 					}
 					if(class(mdata[[x.i]])[1] == "character"){
@@ -50,6 +50,11 @@
 					}
 					if("POSIXct" %in% class(mdata[[x.i]])){
 						out <- unique(mdata[[x.i]])
+					}
+					if(class(mdata[[x.i]])[1] == "AsIs"){
+						# I() non-linear predictors. Would have to use string extraction on x.i to get polynomial directly.
+						# out <- unique(mdata[[x.i]])
+						out <- seq(range(mdata[[x.i]], na.rm = TRUE)[1] * cont.pred.expansion, range(mdata[[x.i]], na.rm = TRUE)[2] * cont.pred.expansion, length.out = n.sim.vals)
 					}
 					return(out)
 				},
