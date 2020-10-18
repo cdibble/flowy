@@ -1,3 +1,8 @@
+	
+	# Simple Moving Average
+		# k = number of time steps; sides = 1 filter coefs are for past vals only. sides = 2, filter coefs are for past and future values.
+	mav <- function(x,k, filt.sides = 1){movav <- stats::filter(x, rep(1/k, k), sides = filt.sides); return(movav)}
+
 	# takes any number of data frames as character list and rbinds them.
 	cat.df <- function(..., append.name = FALSE){
 		# data.list <- as.list(substitute(list(...)))[-1L]
@@ -143,28 +148,28 @@
 		return(wind.data)
 	}
 
-		t.dx <- function(df, start.loc, stop.loc, Name = "Name", Lat = "Lat", Lon = "Lon"){
-			# Computes the distance between two points in a data frame, start.loc and stop.loc, each with a unique 'Name'
-			require(maptools)# readShapeLines ft to read shape file of shoreline; loads depending package 'sp' which includes spatial object tools
-			require(rgeos) # readWKT(), gDistanec()
-			require(rgdal) # spTransform() methods; loaded as dependent by sp, which is dependent in maptools
-			require(geosphere) # bearing() and bearingRhumb()
-			# WGS 84 Proj4 CRS projection string:
-			wgs.84    <- "+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"
-			# Planar Proj4 CRS Projection string:
-			epsg.2767 <- "+proj=lcc +lat_1=39.83333333333334 +lat_2=38.33333333333334 +lat_0=37.66666666666666 +lon_0=-122 +x_0=2000000 +y_0=500000 +ellps=GRS80 +units=m +no_defs"
-			# pull out Lat Lon in well known text format and make a spatial object in WGS84 projection
-			LLstrings.start <- readWKT(paste('POINT(', df[[Lon]][which(df[[Name]] == start.loc)], df[[Lat]][which(df[[Name]] == start.loc)],')') , p4s = CRS(wgs.84))
-			LLstrings.stop <- readWKT(paste('POINT(', df[[Lon]][which(df[[Name]] == stop.loc)], df[[Lat]][which(df[[Name]] == stop.loc)],')') , p4s = CRS(wgs.84))
-			# transfrom Lat.Lon.strings to planar projection
-			LLproj.start <- spTransform(LLstrings.start, CRS(epsg.2767))
-			LLproj.stop <- spTransform(LLstrings.stop, CRS(epsg.2767))
-			# compute distance
-			dis <- gDistance(LLproj.start, LLproj.stop)
-			# compute direction
-			dir <- bearingRhumb(LLstrings.start, LLstrings.stop)
-			# adjust distance to include a sign
-			if(is.na(dir) == FALSE & dir >= 180 & dir <= 360){dis <- -dis}
-			# cat("DIR: ", dir, "\n")
-			return(dis)
-		}
+	t.dx <- function(df, start.loc, stop.loc, Name = "Name", Lat = "Lat", Lon = "Lon"){
+		# Computes the distance between two points in a data frame, start.loc and stop.loc, each with a unique 'Name'
+		require(maptools)# readShapeLines ft to read shape file of shoreline; loads depending package 'sp' which includes spatial object tools
+		require(rgeos) # readWKT(), gDistanec()
+		require(rgdal) # spTransform() methods; loaded as dependent by sp, which is dependent in maptools
+		require(geosphere) # bearing() and bearingRhumb()
+		# WGS 84 Proj4 CRS projection string:
+		wgs.84    <- "+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"
+		# Planar Proj4 CRS Projection string:
+		epsg.2767 <- "+proj=lcc +lat_1=39.83333333333334 +lat_2=38.33333333333334 +lat_0=37.66666666666666 +lon_0=-122 +x_0=2000000 +y_0=500000 +ellps=GRS80 +units=m +no_defs"
+		# pull out Lat Lon in well known text format and make a spatial object in WGS84 projection
+		LLstrings.start <- readWKT(paste('POINT(', df[[Lon]][which(df[[Name]] == start.loc)], df[[Lat]][which(df[[Name]] == start.loc)],')') , p4s = CRS(wgs.84))
+		LLstrings.stop <- readWKT(paste('POINT(', df[[Lon]][which(df[[Name]] == stop.loc)], df[[Lat]][which(df[[Name]] == stop.loc)],')') , p4s = CRS(wgs.84))
+		# transfrom Lat.Lon.strings to planar projection
+		LLproj.start <- spTransform(LLstrings.start, CRS(epsg.2767))
+		LLproj.stop <- spTransform(LLstrings.stop, CRS(epsg.2767))
+		# compute distance
+		dis <- gDistance(LLproj.start, LLproj.stop)
+		# compute direction
+		dir <- bearingRhumb(LLstrings.start, LLstrings.stop)
+		# adjust distance to include a sign
+		if(is.na(dir) == FALSE & dir >= 180 & dir <= 360){dis <- -dis}
+		# cat("DIR: ", dir, "\n")
+		return(dis)
+	}
